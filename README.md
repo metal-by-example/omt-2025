@@ -2,6 +2,9 @@
 
 This repository contains the sample code for the "Fundamentals of 3D Graphics Programming with Metal" workshop at One More Thing Conference 2025.
 
+To view the slides for the workshop, click the title slide below.
+[![Title Slide](images/title-slide.png)](https://speakerdeck.com/warrenm/fundamentals-of-3d-graphics-programming-with-metal)
+
 ## Structure
 
 This repo contains three projects:
